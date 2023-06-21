@@ -1,3 +1,4 @@
 .env
 node_modules/
 .ipnyb_checkpoints/
+output_1.jsonl
