@@ -19,6 +19,7 @@ app.listen(port, () => {
 app.post("/api/gpt", async (req, res) => {
   try {
     // console.log(req.body);
+    // sentimentAnalysis(req.body.input);
     const response = await main(req.body.character, req.body.input);
     res.json(response);
   } catch (error) {
