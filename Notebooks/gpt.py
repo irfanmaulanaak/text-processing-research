@@ -15,12 +15,9 @@ conversation.append(
     {
         "role": "user",
         "content": "Fetch from this site https://cosmize.gitbook.io/cosmize/welcome-to-cosmize/whats-cosmize"
-        +
-        ", https://cosmize.gitbook.io/cosmize/welcome-to-cosmize/concept , https://cosmize.gitbook.io/cosmize/welcome-to-cosmize/architecture-and-technology"
-        +
-        ", https://cosmize.gitbook.io/cosmize/community/captains-program, https://medium.com/@cosmize_io/this-is-cosmize-here-is-great-to-know-about-us-6865a72889d"
-        +
-        ", https://medium.com/@cosmize_io/this-is-cosmize-here-is-great-to-know-about-us-6865a72889d, https://medium.com/@cosmize_io/ama-recap-cosmize-x-astar-network-e2f3317795c"
+        + ", https://cosmize.gitbook.io/cosmize/welcome-to-cosmize/concept , https://cosmize.gitbook.io/cosmize/welcome-to-cosmize/architecture-and-technology"
+        + ", https://cosmize.gitbook.io/cosmize/community/captains-program, https://medium.com/@cosmize_io/this-is-cosmize-here-is-great-to-know-about-us-6865a72889d"
+        + ", https://medium.com/@cosmize_io/this-is-cosmize-here-is-great-to-know-about-us-6865a72889d, https://medium.com/@cosmize_io/ama-recap-cosmize-x-astar-network-e2f3317795c",
     }
 )
 
